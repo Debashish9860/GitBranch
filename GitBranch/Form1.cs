@@ -14,6 +14,9 @@ namespace GitBranch
             MessageBox.Show("Commit from the main branch");
             MessageBox.Show("Commit from the main branch");
             MessageBox.Show("Commit from the main branch");
+            MessageBox.Show("Commit from the child branch");
+            MessageBox.Show("Commit from the child branch");
+            MessageBox.Show("Commit from the child branch");
         }
     }
 }
