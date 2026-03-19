@@ -12,6 +12,8 @@ namespace GitBranch
             MessageBox.Show("Hello Debashish....");
             MessageBox.Show("Will go to the new CheckBranch_1");
             MessageBox.Show("Commit from the main branch");
+            MessageBox.Show("Commit from the main branch");
+            MessageBox.Show("Commit from the main branch");
         }
     }
 }
