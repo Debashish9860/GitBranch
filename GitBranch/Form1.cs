@@ -19,6 +19,10 @@ namespace GitBranch
             MessageBox.Show("Commit learn again 1");
             MessageBox.Show("Commit learn again 2");
             MessageBox.Show("Commit learn again 3");
+            MessageBox.Show("Commit learn again from main branch 4");
+            MessageBox.Show("Commit learn again from main branch 5");
+            MessageBox.Show("Commit learn again from main branch 6");
+            MessageBox.Show("Commit learn again from main branch 7");
         }
     }
 }
